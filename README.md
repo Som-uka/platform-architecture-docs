@@ -1,12 +1,12 @@
 # Platform Architecture Documentation
 
-Current-state cloud platform architecture for a SaaS continuing education provider — covering frontend, identity, billing, operational data, integrations, and security boundaries.
+Current-state cloud platform architecture for a SaaS continuing education provider, covering frontend, identity, billing, operational data, integrations, and security boundaries.
 
 ---
 
 ## Overview
 
-This project documents the current-state architecture of a SaaS education platform running on AWS. The documentation was created to give engineering, product, and executive stakeholders a shared, accurate view of how the platform is built — not an idealized future state, but what actually exists and runs today.
+This project documents the current-state architecture of a SaaS education platform running on AWS. The documentation was created to give engineering, product, and executive stakeholders a shared, accurate view of how the platform is built, not an idealized future state, but what actually exists and runs today.
 
 Diagrams are built in Eraser.io and reflect actual services, connectivity patterns, and security boundaries.
 
@@ -49,7 +49,7 @@ Diagrams are built in Eraser.io and reflect actual services, connectivity patter
 
 ### Hosting
 - Primary region: AWS us-east-1
-- Elastic Beanstalk (AL2 and legacy AL1 — remediation in progress)
+- Elastic Beanstalk (AL2 and legacy AL1, remediation in progress)
 - EC2, RDS/Aurora, Lambda, S3, CloudFront, Route 53
 
 ---
