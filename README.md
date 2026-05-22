@@ -94,3 +94,9 @@ platform-architecture-docs/
 - Salesforce, Iterable, Kaltura, Alchemer, Rustici SCORM
 
 > All account identifiers, internal naming, and client-specific details have been removed.
+
+
+## Architecture Diagram
+
+![Current State Platform Architecture](diagrams/01_current-state-architecture.png)
+
